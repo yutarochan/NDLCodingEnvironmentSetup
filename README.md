@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Setting Up Your Coding Environment
+ 
+## Setting up Anaconda
+# What is Anaconda
+
 
 You can use the [editor on GitHub](https://github.com/warneracw21/NDLCodingEnvironmentSetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
