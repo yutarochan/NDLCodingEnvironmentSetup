@@ -3,7 +3,11 @@
 ## Setting up Anaconda
 
 ### What is Anaconda
-The Anaconda platform is used for package management, collaberative projects, and handling virtual environments. In Nittany Data Labs, we use Anaconda to handle all of the packages you have been using in your DataCamp courses. The packages you have been importing at the head of your programs, such as ```pandas``` and ```numpy```  have to be installed on your computer before you can begin using them in all of the Data Science applications you write.
+The Anaconda platform is used for package management, collaberative projects, and handling virtual environments. In Nittany Data Labs, we use Anaconda to handle all of the packages you have been using in your DataCamp courses. The packages you have been importing at the head of your programs, such as ```pandas``` and ```numpy```,  have to be installed on your computer before you can begin using them in all of the Data Science applications you write. When you install Anaconda on your system, you install of the packages and their necessary dependenciesn so when you begin writing full scale Machine Learning applications, you never have to worry about finding the package online yourself, Anaconda comes to the rescue.
+
+#### Mac OS and Linux
+
+##### Python 2.6
 
 You can use the [editor on GitHub](https://github.com/warneracw21/NDLCodingEnvironmentSetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
