@@ -1,8 +1,9 @@
 # Setting Up Your Coding Environment
  
 ## Setting up Anaconda
-# What is Anaconda
 
+### What is Anaconda
+For intents and purposes, the Anaconda platform is used for package management, collaberative projects, and handling virtual environments. In Nittany Data Labs, we use Anaconda to handle all of the packages you have been using in your DataCamp courses. The packages you have been importing at the head of your programs, such as ```pandas``` and ```numpy```  have to be installed on your computer before you can begin using them in all of the Data Science applications you write.
 
 You can use the [editor on GitHub](https://github.com/warneracw21/NDLCodingEnvironmentSetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
