@@ -26,43 +26,14 @@ The Anaconda platform is used for package management, collaberative projects, an
 * [Python 3.6 Anaconda Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh)
 * [Python 2.7 Anaconda Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0.1-Linux-x86_64.sh)
 
+#### Verify that Anaconda is Installed
+* Run ```conda --version``` to verify that you have installed Anaconda correctly on your system
+* Update Anaconda with ```conda update conda```
+    * If a new conda version is available, ```Proceed ([y]/n)?``` type ```y```
+* On your Terminal or Command Prompt, type ```python``` and now you are in a Python Shell, similar to the one you have been using on DataCamp!
+    * type ```import pandas as pd``` and ```import numpy as np```
+    * These might take a while (these packages are huge!)
+    * Play around with them on your computer similar to how you do in DataCamp!
 
+There you go, now you have access to all of the packages that you have been learning about on DataCamp! 
 
-
-
-
-You can use the [editor on GitHub](https://github.com/warneracw21/NDLCodingEnvironmentSetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/warneracw21/NDLCodingEnvironmentSetup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
