@@ -7,7 +7,8 @@ The Anaconda platform is used for package management, collaberative projects, an
 
 #### Mac OS and Linux
 
-##### Python 2.6
+[Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
+
 
 You can use the [editor on GitHub](https://github.com/warneracw21/NDLCodingEnvironmentSetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
