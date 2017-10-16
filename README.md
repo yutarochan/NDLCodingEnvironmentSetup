@@ -5,6 +5,15 @@
 ### What is Anaconda
 The Anaconda platform is used for package management, collaberative projects, and handling virtual environments. In Nittany Data Labs, we use Anaconda to handle all of the packages you have been using in your DataCamp courses. The packages you have been importing at the head of your programs, such as ```pandas``` and ```numpy```,  have to be installed on your computer before you can begin using them in all of the Data Science applications you write. When you install Anaconda on your system, you install of the packages and their necessary dependenciesn so when you begin writing full scale Machine Learning applications, you never have to worry about finding the package online yourself, Anaconda comes to the rescue.
 
+#### Which Python do I have?
+* For Mac OS or Linux, open Spotlight and search Terminal. Open Terminal and type ```which python```
+ * If you do not have Python, download [Python 3.6](https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg)
+* For Windows, run Command Prompt and type ```python``` and look for:
+```Python 2.7.4 (r264:75708, Oct 10 2009, 07:36:50) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for further information.```
+
+
+
 #### Mac OS
 
 * [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
