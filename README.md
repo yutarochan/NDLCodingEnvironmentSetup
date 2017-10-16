@@ -5,10 +5,22 @@
 ### What is Anaconda
 The Anaconda platform is used for package management, collaberative projects, and handling virtual environments. In Nittany Data Labs, we use Anaconda to handle all of the packages you have been using in your DataCamp courses. The packages you have been importing at the head of your programs, such as ```pandas``` and ```numpy```,  have to be installed on your computer before you can begin using them in all of the Data Science applications you write. When you install Anaconda on your system, you install of the packages and their necessary dependenciesn so when you begin writing full scale Machine Learning applications, you never have to worry about finding the package online yourself, Anaconda comes to the rescue.
 
-#### Mac OS and Linux
+#### Mac OS
 
 * [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
 * [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-MacOSX-x86_64.pkg)
+
+#### Windows
+
+* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-Windows-x86_64.exe)
+* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-Windows-x86_64.exe)
+
+#### Linux
+
+* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh)
+* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0.1-Linux-x86_64.sh)
+
+
 
 
 
