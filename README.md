@@ -13,18 +13,18 @@ The Anaconda platform is used for package management, collaberative projects, an
    
 #### Mac OS
 
-* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
-* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-MacOSX-x86_64.pkg)
+* [Python 3.6 Anaconda Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
+* [Python 2.7 Anaconda Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-MacOSX-x86_64.pkg)
 
 #### Windows
 
-* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-Windows-x86_64.exe)
-* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-Windows-x86_64.exe)
+* [Python 3.6 Anaconda Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-Windows-x86_64.exe)
+* [Python 2.7 Anaconda Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-Windows-x86_64.exe)
 
 #### Linux
 
-* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh)
-* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0.1-Linux-x86_64.sh)
+* [Python 3.6 Anaconda Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh)
+* [Python 2.7 Anaconda Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0.1-Linux-x86_64.sh)
 
 
 
