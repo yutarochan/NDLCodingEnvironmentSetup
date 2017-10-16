@@ -7,8 +7,8 @@ The Anaconda platform is used for package management, collaberative projects, an
 
 #### Mac OS and Linux
 
--[Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
--[Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-MacOSX-x86_64.pkg)
+* [Python 3.6 Installer](https://repo.continuum.io/archive/Anaconda3-5.0.0-MacOSX-x86_64.pkg)
+* [Python 2.7 Installer](https://repo.continuum.io/archive/Anaconda2-5.0.0-MacOSX-x86_64.pkg)
 
 
 
