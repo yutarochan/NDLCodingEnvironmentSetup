@@ -47,12 +47,8 @@ How do Data Scientists write their applications? They aren't using the DataCamp 
 
 #### Downloading Sublime Text Editors
 * [Mac OSX Sublime Installer](https://download.sublimetext.com/Sublime%20Text%20Build%203143.dmg)
-* [Windows OSX Sublime Installer](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20Setup.exe)
+* [Windows Sublime Installer](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20Setup.exe)
 
 #### Change your Theme
 Follow [this](http://buymeasoda.github.io/soda-theme/) article on how to change your Sublime Text Theme
-
-
-
-
 
